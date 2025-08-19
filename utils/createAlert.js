@@ -1,4 +1,4 @@
-// Define a listener function
+// EventEmitter listener function
 export function createAlert(sighting) {
-    console.log(`Send alert to Ghost Hunters in ${sighting.location}`)
+    console.log(`Send alert to Ghost Hunters in ${sighting.location}`);
 }
