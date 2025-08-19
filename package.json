@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A platform for sharing ghostly encounters.",
   "main": "server.js",
+  "type": "module",
   "scripts": {
     "start": "nodemon server.js"
   },
